@@ -31,7 +31,7 @@ public class Main {
 				robot.mouseMove(x, y);
 
 				try {
-					Thread.currentThread().sleep(240 * 1000);
+					Thread.currentThread().sleep(180 * 1000);
 				} catch (InterruptedException e) {
 				}
 
